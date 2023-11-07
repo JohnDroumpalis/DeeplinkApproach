@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeeplinkApproach", "DeeplinkApproach\DeeplinkApproach.csproj", "{241FB9A5-87B5-45EC-8B2B-68E09BA2ABB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepinkTests", "DeepinkTests\DeepinkTests.csproj", "{38188183-448D-4D6F-A110-9C05D4CC56CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241FB9A5-87B5-45EC-8B2B-68E09BA2ABB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241FB9A5-87B5-45EC-8B2B-68E09BA2ABB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241FB9A5-87B5-45EC-8B2B-68E09BA2ABB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241FB9A5-87B5-45EC-8B2B-68E09BA2ABB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38188183-448D-4D6F-A110-9C05D4CC56CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38188183-448D-4D6F-A110-9C05D4CC56CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38188183-448D-4D6F-A110-9C05D4CC56CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38188183-448D-4D6F-A110-9C05D4CC56CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+/Users/iodr01/RiderProjects/DeeplinkApproach/DeeplinkApproach/bin/Debug/net7.0/DeeplinkApproach
+/Users/iodr01/RiderProjects/DeeplinkApproach/DeeplinkApproach/bin/Debug/net7.0/DeeplinkApproach.deps.json
+/Users/iodr01/RiderProjects/DeeplinkApproach/DeeplinkApproach/bin/Debug/net7.0/DeeplinkApproach.runtimeconfig.json
+/Users/iodr01/RiderProjects/DeeplinkApproach/DeeplinkApproach/bin/Debug/net7.0/DeeplinkApproach.dll
+/Users/iodr01/RiderProjects/DeeplinkApproach/DeeplinkApproach/bin/Debug/net7.0/DeeplinkApproach.pdb
+/Users/iodr01/RiderProjects/DeeplinkApproach/DeeplinkApproach/obj/Debug/net7.0/DeeplinkApproach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iodr01/RiderProjects/DeeplinkApproach/DeeplinkApproach/obj/Debug/net7.0/DeeplinkApproach.AssemblyInfoInputs.cache
+/Users/iodr01/RiderProjects/DeeplinkApproach/DeeplinkApproach/obj/Debug/net7.0/DeeplinkApproach.AssemblyInfo.cs
+/Users/iodr01/RiderProjects/DeeplinkApproach/DeeplinkApproach/obj/Debug/net7.0/DeeplinkApproach.csproj.CoreCompileInputs.cache
+/Users/iodr01/RiderProjects/DeeplinkApproach/DeeplinkApproach/obj/Debug/net7.0/DeeplinkApproach.dll
+/Users/iodr01/RiderProjects/DeeplinkApproach/DeeplinkApproach/obj/Debug/net7.0/refint/DeeplinkApproach.dll
+/Users/iodr01/RiderProjects/DeeplinkApproach/DeeplinkApproach/obj/Debug/net7.0/DeeplinkApproach.pdb
+/Users/iodr01/RiderProjects/DeeplinkApproach/DeeplinkApproach/obj/Debug/net7.0/DeeplinkApproach.genruntimeconfig.cache
+/Users/iodr01/RiderProjects/DeeplinkApproach/DeeplinkApproach/obj/Debug/net7.0/ref/DeeplinkApproach.dll
